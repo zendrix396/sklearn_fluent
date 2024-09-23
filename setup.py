@@ -17,7 +17,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['sklearn'],
+    install_requires=['scikit-learn'],
     keywords=['python', 'sklearn', 'mathematical functions', 'functions', 'linear regressions'],
     classifiers=[
         "Development Status :: 1 - Planning",
